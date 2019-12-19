@@ -6,8 +6,8 @@ import { DataProxy } from 'apollo-cache'
 
 type Todo = {
   id: string;
-  title: String;
-  content?: String
+  title: string;
+  content?: string
 };
 
 

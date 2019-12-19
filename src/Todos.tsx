@@ -7,7 +7,7 @@ import { QueryResult } from '@apollo/react-common'
 type Todo = {
     id: string
     title: string
-    content: String
+    content: string
 }
 
 const Todos: React.FC = (): ReactElement => {
